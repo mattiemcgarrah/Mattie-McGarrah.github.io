@@ -9,56 +9,56 @@
   {
     "objectID": "posts/data vis.html",
     "href": "posts/data vis.html",
-    "title": "[Insert an Interesting Title About Your Spotify Music Analysis]",
+    "title": "Behind the Beat: Exploring Spotify Music Trends",
     "section": "",
-    "text": "Mattie McGarrah\nWilliam Hendrix\nElizabeth Brock\nSarah Draper"
+    "text": "Mattie McGarrah\nWilliam Hendrix\nElizabeth Brock\nSarah Draper\nCarter O’Dell"
   },
   {
     "objectID": "posts/data vis.html#team-members",
     "href": "posts/data vis.html#team-members",
-    "title": "[Insert an Interesting Title About Your Spotify Music Analysis]",
+    "title": "Behind the Beat: Exploring Spotify Music Trends",
     "section": "",
-    "text": "Mattie McGarrah\nWilliam Hendrix\nElizabeth Brock\nSarah Draper"
+    "text": "Mattie McGarrah\nWilliam Hendrix\nElizabeth Brock\nSarah Draper\nCarter O’Dell"
   },
   {
     "objectID": "posts/data vis.html#dataset-description",
     "href": "posts/data vis.html#dataset-description",
-    "title": "[Insert an Interesting Title About Your Spotify Music Analysis]",
+    "title": "Behind the Beat: Exploring Spotify Music Trends",
     "section": "Dataset Description",
     "text": "Dataset Description\nFor this project, our team analyzed a spotify dataset from a github repository WU-RDS MA2022 with 66,796 songs and variables related to chart performance, artist popularity, and song characteristics. The dataset includes songs that appeared in the Top 200 charts and contains information such as genre, release date, song length, speechiness, danceability, energy, and Spotify artist popularity."
   },
   {
     "objectID": "posts/data vis.html#we-cleaned-and-organized-the-data-in-microsoft-excel-selected-the-variables-relevant-to-our-four-research-questions-and-created-a-line-chart-bar-chart-histogram-and-scatter-plot-to-explore-trends-in-music-and-streaming-behavior.",
     "href": "posts/data vis.html#we-cleaned-and-organized-the-data-in-microsoft-excel-selected-the-variables-relevant-to-our-four-research-questions-and-created-a-line-chart-bar-chart-histogram-and-scatter-plot-to-explore-trends-in-music-and-streaming-behavior.",
-    "title": "[Insert an Interesting Title About Your Spotify Music Analysis]",
+    "title": "Behind the Beat: Exploring Spotify Music Trends",
     "section": "We cleaned and organized the data in Microsoft Excel, selected the variables relevant to our four research questions, and created a line chart, bar chart, histogram, and scatter plot to explore trends in music and streaming behavior.",
     "text": "We cleaned and organized the data in Microsoft Excel, selected the variables relevant to our four research questions, and created a line chart, bar chart, histogram, and scatter plot to explore trends in music and streaming behavior."
   },
   {
     "objectID": "posts/data vis.html#question-1-how-has-the-average-speechiness-score-of-songs-changed-by-release-year-from-2000-to-2020-we-were-interested-in-this-question-because-speechiness-can-help-show-how-the-style-of-popular-music-has-changed-over-time-especially-with-the-increased-popularity-of-genres-that-include-more-spoken-or-rap-style-vocals.-to-answer-the-question-we-used-the-release-year-and-speechiness-score-columns-from-our-cleaned-dataset.-in-excel-we-created-a-pivottable-that-grouped-the-songs-by-release-year-and-calculated-the-average-speechiness-score-for-each-year.-we-focused-on-songs-released-from-2000-through-2020-because-earlier-years-contained-much-smaller-numbers-of-songs-in-the-dataset-which-could-make-their-yearly-averages-less-representative.-we-then-created-a-line-chart-with-release-year-on-the-x-axis-and-average-speechiness-score-on-the-y-axis.-we-formatted-the-chart-by-simplifying-the-gridlines-adding-clear-axis-titles-and-using-consistent-colors-so-that-the-changes-over-time-were-easier-to-see.",
     "href": "posts/data vis.html#question-1-how-has-the-average-speechiness-score-of-songs-changed-by-release-year-from-2000-to-2020-we-were-interested-in-this-question-because-speechiness-can-help-show-how-the-style-of-popular-music-has-changed-over-time-especially-with-the-increased-popularity-of-genres-that-include-more-spoken-or-rap-style-vocals.-to-answer-the-question-we-used-the-release-year-and-speechiness-score-columns-from-our-cleaned-dataset.-in-excel-we-created-a-pivottable-that-grouped-the-songs-by-release-year-and-calculated-the-average-speechiness-score-for-each-year.-we-focused-on-songs-released-from-2000-through-2020-because-earlier-years-contained-much-smaller-numbers-of-songs-in-the-dataset-which-could-make-their-yearly-averages-less-representative.-we-then-created-a-line-chart-with-release-year-on-the-x-axis-and-average-speechiness-score-on-the-y-axis.-we-formatted-the-chart-by-simplifying-the-gridlines-adding-clear-axis-titles-and-using-consistent-colors-so-that-the-changes-over-time-were-easier-to-see.",
-    "title": "[Insert an Interesting Title About Your Spotify Music Analysis]",
+    "title": "Behind the Beat: Exploring Spotify Music Trends",
     "section": "Question 1: How has the average speechiness score of songs changed by release year from 2000 to 2020? We were interested in this question because speechiness can help show how the style of popular music has changed over time, especially with the increased popularity of genres that include more spoken or rap-style vocals. To answer the question, we used the Release Year and Speechiness Score columns from our cleaned dataset. In Excel, we created a PivotTable that grouped the songs by release year and calculated the average speechiness score for each year. We focused on songs released from 2000 through 2020 because earlier years contained much smaller numbers of songs in the dataset, which could make their yearly averages less representative. We then created a line chart with release year on the x-axis and average speechiness score on the y-axis. We formatted the chart by simplifying the gridlines, adding clear axis titles, and using consistent colors so that the changes over time were easier to see.",
     "text": "Question 1: How has the average speechiness score of songs changed by release year from 2000 to 2020? We were interested in this question because speechiness can help show how the style of popular music has changed over time, especially with the increased popularity of genres that include more spoken or rap-style vocals. To answer the question, we used the Release Year and Speechiness Score columns from our cleaned dataset. In Excel, we created a PivotTable that grouped the songs by release year and calculated the average speechiness score for each year. We focused on songs released from 2000 through 2020 because earlier years contained much smaller numbers of songs in the dataset, which could make their yearly averages less representative. We then created a line chart with release year on the x-axis and average speechiness score on the y-axis. We formatted the chart by simplifying the gridlines, adding clear axis titles, and using consistent colors so that the changes over time were easier to see.\n\n\n\nAverage speechiness generally increased among songs released from 2000 to 2020."
   },
   {
     "objectID": "posts/data vis.html#question-2-which-music-genres-have-the-highest-average-spotify-popularity",
     "href": "posts/data vis.html#question-2-which-music-genres-have-the-highest-average-spotify-popularity",
-    "title": "[Insert an Interesting Title About Your Spotify Music Analysis]",
+    "title": "Behind the Beat: Exploring Spotify Music Trends",
     "section": "Question 2: Which music genres have the highest average Spotify popularity?",
     "text": "Question 2: Which music genres have the highest average Spotify popularity?\nWhich music genres have the highest average Spotify popularity? We were interested in this question because different genres have different audiences, and we wanted to see whether certain types of music were associated with more popular artists on Spotify. To create the bar chart, we used the Genre and Spotify Popularity columns from our cleaned dataset. We created a PivotTable in Excel that grouped the songs by genre and calculated the average Spotify popularity score for each genre. The popularity variable is a 0–100 Spotify artist popularity index, where higher values represent greater popularity. We sorted the genre averages so they could be compared more easily and then created a bar chart using the summarized values. We formatted the chart by adjusting the colors, adding clear axis titles, and making the genre labels easier to read. The visual makes it easy to compare average artist popularity across the different genres represented in the dataset.\n\n\n\nAverage Spotify artist popularity differs across music genres."
   },
   {
     "objectID": "posts/data vis.html#question-3-what-is-the-distribution-of-song-lengths",
     "href": "posts/data vis.html#question-3-what-is-the-distribution-of-song-lengths",
-    "title": "[Insert an Interesting Title About Your Spotify Music Analysis]",
+    "title": "Behind the Beat: Exploring Spotify Music Trends",
     "section": "Question 3: What is the distribution of song lengths?",
     "text": "Question 3: What is the distribution of song lengths?\nWhat is the distribution of song lengths? We were interested in this question because song duration can vary depending on the type and style of music, and we wanted to see what song lengths were most common in the dataset. To create the histogram, we used the Song Length column from our cleaned dataset, which measures the duration of each song in minutes. In Excel, we created a histogram that grouped the song lengths into intervals, or bins, and counted how many songs fell into each interval. We adjusted the bins and axis formatting so the overall shape of the distribution would be easier to interpret. We also added clear axis titles and simplified the visual so the most common range of song lengths could be easily identified. The resulting graph shows that the majority of songs are concentrated within the typical range of a few minutes rather than being extremely short or extremely long.\n\n\n\nMost songs in the dataset are concentrated around typical three- to four-minute song lengths."
   },
   {
     "objectID": "posts/data vis.html#question-4-is-there-a-relationship-between-a-songs-danceability-and-energy",
     "href": "posts/data vis.html#question-4-is-there-a-relationship-between-a-songs-danceability-and-energy",
-    "title": "[Insert an Interesting Title About Your Spotify Music Analysis]",
+    "title": "Behind the Beat: Exploring Spotify Music Trends",
     "section": "Question 4: Is there a relationship between a song’s danceability and energy?",
     "text": "Question 4: Is there a relationship between a song’s danceability and energy?\nSongs with higher energy tend to be slightly more danceable. Is there a relationship between a song’s danceability and energy? We were interested in this question because danceability and energy both describe characteristics of how a song sounds, but they do not necessarily measure the same thing. To create the scatter plot, we used the Danceability Score and Energy Score columns from our cleaned dataset. We plotted danceability on the x-axis and energy on the y-axis so that each point represented an individual song. We then added a linear trendline and displayed the R² value to help evaluate the strength of the relationship between the two variables. We also reformatted the axes, labels, and scale to make the graph easier to read. The upward direction of the trendline suggests that songs with higher energy scores tend to have slightly higher danceability scores, although the relationship is not especially strong.\n\n\n\nSongs with higher energy tend to be slightly more danceable."
   },
@@ -81,6 +81,6 @@
     "href": "projects.html",
     "title": "projects.qmd",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n[Insert an Interesting Title About Your Spotify Music Analysis]\n\n\n\n\n\n\nMattie McGarrah, [Teammate 2 Name], [Teammate 3 Name]\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBehind the Beat: Exploring Spotify Music Trends\n\n\n\n\n\n\nMattie McGarrah, Willam Hendrix, Sarah Draper, Elizabeth Brock, Carter O’Dell\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
