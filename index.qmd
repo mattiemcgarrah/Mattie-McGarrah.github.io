@@ -1,0 +1,18 @@
+---
+title: "Mattie McGarrah"
+image: Screenshot 2026-10-01 184120.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/mattiemcgarrah/Mattie-McGarrah.github.io
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mattie-mcgarrah-5ba693413/
+    - icon: inboxes
+      text: Contact
+      href: mailto:mattiemcgarrah@gmail.com
+---
+
+## Hi, I'm Mattie! I'm currently studying Industrial Engineering at the University of Arkansas and I'm interested in pursuing a career in data analytics. This site is a collection of some of the projects and work I've done throughout college.
