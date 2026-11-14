@@ -1,0 +1,52 @@
+---
+title: "[Insert an Interesting Title About Your Spotify Music Analysis]"
+author: "Mattie McGarrah, [Teammate 2 Name], [Teammate 3 Name]"
+date: "2026-11-13"
+image: slide1.png
+---
+
+## Team Members
+* [Mattie McGarrah](https://mattiemcgarrah.github.io/Mattie-McGarrah.github.io/)
+* [William Hendrix](https://swisscheeseisholy.github.io/)
+* [Elizabeth Brock](https://elizabeth-diane.github.io/)
+* [Sarah Draper](https://sarahdraper.github.io/)
+
+## Dataset Description
+[Insert a brief description of your Spotify dataset, including where it came from, how many songs it contains, and the key variables you analyzed such as Release Year, Speechiness Score, Genre, Spotify Popularity, Song Length, Danceability Score, and Energy Score.]
+
+---
+
+## Question 1: How has the average speechiness score of songs changed by release year from 2000 to 2020?
+* **Why It Is Interesting:** Speechiness helps show how the style of popular music has changed over time, especially with the increased popularity of genres that include more spoken or rap-style vocals.
+* **Excel Analysis:** We used the **Release Year** and **Speechiness Score** columns from our cleaned dataset to create a PivotTable that grouped songs by release year and calculated the average speechiness score for each year. We focused on songs released from 2000 through 2020 because earlier years contained much smaller numbers of songs, which could make their yearly averages less representative.
+* **Visual Design:** We created a line chart (time-series plot) with release year on the x-axis and average speechiness score on the y-axis. We formatted the chart by simplifying the gridlines, adding clear axis titles, and using consistent colors so that changes over time were easier to see.
+
+![Average speechiness generally increased among songs released from 2000 to 2020.](slide1.png)
+
+---
+
+## Question 2: Which music genres have the highest average Spotify popularity?
+* **Why It Is Interesting:** Different genres appeal to different audiences, and we wanted to see whether certain types of music were associated with more popular artists on Spotify.
+* **Excel Analysis:** We used the **Genre** and **Spotify Popularity** columns (a 0–100 Spotify artist popularity index) from our cleaned dataset. We created a PivotTable that grouped songs by genre, calculated the average popularity score for each genre, and sorted the averages so they could be compared more easily.
+* **Visual Design:** We created a bar chart from the summarized PivotTable values and formatted it by adjusting the colors, adding clear axis titles, and making the genre labels easier to read.
+
+![Average Spotify artist popularity differs across music genres.](slide2.png)
+
+---
+
+## Question 3: What is the distribution of song lengths?
+* **Why It Is Interesting:** Song duration can vary depending on the type and style of music, and we wanted to see which song lengths were most common in the dataset.
+* **Excel Analysis:** We used the **Song Length** column from our cleaned dataset, which measures the duration of each song in minutes, to group song lengths into intervals (bins) and count how many songs fell into each interval.
+* **Visual Design:** We created a histogram and adjusted the bins and axis formatting so the overall shape of the distribution was easier to interpret. We also added clear axis titles and simplified the visual so the most common three- to four-minute range could be easily identified.
+
+![Most songs in the dataset are concentrated around typical three- to four-minute song lengths.](slide3.png)
+
+---
+
+## Question 4: Is there a relationship between a song’s danceability and energy?
+* **Why It Is Interesting:** Danceability and energy both describe characteristics of how a song sounds, so we wanted to explore whether they move together or measure distinct qualities.
+* **Excel Analysis:** We used the **Danceability Score** and **Energy Score** columns from our cleaned dataset, plotting each individual song and adding a linear trendline with an $R^2$ value to evaluate the strength of the relationship.
+* **Visual Design:** We created a scatter plot with danceability on the x-axis and energy on the y-axis, then reformatted the axes, labels, and scale to make the graph easier to read and highlight the slight upward trend.
+
+![Songs with higher energy tend to be slightly more danceable.](slide4.png)
+
